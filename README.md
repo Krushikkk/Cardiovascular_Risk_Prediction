@@ -1,1 +1,2 @@
 # Cardiovascular_Risk_Prediction
+This project aims to predict the risk of cardiovascular disease in patients using machine learning algorithms. The dataset used in this project is the Framingham Heart Study dataset, which contains data from 3390 participants collected over a period of 10 years.The Framingham Heart Study dataset provides patient information with 15 attributes, including demographic, behavioral, and medical risk factors of CHD.
